@@ -37,6 +37,4 @@ def generationLargePrimeNumber(n): # n is the number of bits you wish
             break
     return p
 
-print("voici un nombre premier de 16 bits",generationLargePrimeNumber(16))
-
 
